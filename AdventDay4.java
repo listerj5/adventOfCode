@@ -14,15 +14,8 @@ import java.io.IOException;
  * @author James
  */
 public class AdventDay4 {
-
-    static String currentline;
-        
-        static String nextline, nextline2, nextline3;
-        
-        static BufferedReader in;
-        
-        
-        
+        static String nextline;
+        static BufferedReader in;        
         static String inputFileLocation="G:/tempdata/advent4.txt";
         
     /**
