@@ -59,7 +59,4 @@ public class AdventDay10 {
 			System.out.println(display[i]);
 		}
 	}
-	static void debugOut(int x, int cycle) {
-		System.out.println("X val="+x+", cycle="+cycle);
-	}
 }
