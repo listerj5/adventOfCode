@@ -43,9 +43,9 @@ public class AdventDay14 {
 		// for part 2, solution will look like a pyramid of sand, width twice the height+1, centred on 500
 		// dimensions below are for part 2, a bit overkill for part 1
 		
-		//PointXY.maxX+=150;
-		//PointXY.minX-=140;
-		//PointXY.maxY+=2;
+		//PointXY.maxX+=2;
+		//PointXY.minX-=2;
+		//PointXY.maxY+=1;
 		
 		PointXY.maxY+=2; // increasing height of "play" area by 2 to allow for infinite floor area in part 2
 		PointXY.maxX=500+2+PointXY.maxY;
